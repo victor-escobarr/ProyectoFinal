@@ -1,2 +1,4 @@
 # ProyectoFinal
-Carlos, su mentor piensa estudiar ingenierìa en computaciòn porque le apasiona programar, se inscribiò a un curso donde le piden entreguè un proyecto final. Carlos creo varias ramas para trabajar su proyecto y ¡Oh Sorpresa! Se quedò sin internet antes de unirlas, tu trabajo es ayudar a Carlos a unir sus ramas hasta llegar a master/main de forma que el producto final se vea como el siguiente.
+Carlos, su mentor piensa estudiar ingeniería en computación porque le apasiona programar, se inscribió a un curso donde le piden entreguè un proyecto final. Carlos creo varias ramas para trabajar su proyecto y ¡Oh Sorpresa! Se quedó sin internet antes de unirlas, tu trabajo es ayudar a Carlos a unir sus ramas de tal forma que la versión final del proyecto se vea de la siguiente forma:
+![ola](./img/imagen.png)
+
